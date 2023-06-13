@@ -1,0 +1,14 @@
+.info {
+  height: 100px;
+  max-width: 100%;
+  background-color: #200E3F;
+  display: flex;
+  align-items: center;
+}
+
+.infoText {
+  color: #AC9998;
+  font-weight: bold;
+  font-size: 30px;
+  margin-left: 12px;
+}
